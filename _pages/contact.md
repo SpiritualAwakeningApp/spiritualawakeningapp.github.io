@@ -12,6 +12,3 @@ Sept 4, 2022
 Whether you have a question, suggestion, or just want to chat, we'd love to hear from you. Reach out to us anytime and we'll happily answer your questions.
 
 Email: paige@paigesoftworld.com
-
-![poster](../assets/appstore.png)
-Test
