@@ -9,4 +9,6 @@ Sept 4, 2022
 
 # Paige Soft World Co. Contact Info
 
-Email us at paige@paigesoftworld.com
+Whether you have a question, suggestion, or just want to chat, we'd love to hear from you. Reach out to us anytime and we'll happily answer your questions.
+
+Email: paige@paigesoftworld.com
